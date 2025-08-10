@@ -10,3 +10,6 @@ NOTE:
 1. Tried my best at implementing but sadly it could barely passed the first pipe, tried various reward method that would make it learn better positioning but didnt help much
 2. Also tried various hyperparameters tuning to help the triaing faster but that was in vain too
 3. My inuition is that maybe the reward needs to be more nicely coded to ensure positioning and maybe the env needs some changing(future)
+4. Also used a cicle instead of a real bird img, but that can be changed easily
+5. got to understand waut better of openAI GYM or GYMANASIUM works, it was fun
+   
